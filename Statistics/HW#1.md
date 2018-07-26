@@ -36,6 +36,6 @@
 - 나의 생각 : Box plot은 사분위수를 사용하여 최대/최소값을 구하여 그릴 수 있다. 이는 데이터의 분산형태를 살펴볼 수 있는 방법이다. 우리가 box plot을 사용하는 이유에는 사분위수를 사용하기 때문에 시각적으로 하나의 집단의 중앙값과 평균값의 위치를 알 수 있으며 이것이 box내에서 치우친 정도에 따라서 전체 데이터에 대한 개요를 쉽게 확인할 수 있다. 또한 outlier의 위치도 알 수 있다. 데이터의 분포를 알 수 있는 다른 형태인 히스토그램과 비교하자면, 히스토그램은 하나의 그래프로 하나의 집단 데이터 분산 형태만 알 수 있지만 box plot은 서로 다른 집단을 함께 그려줌으로써 한 눈에 비교가 가능한 점에서 차이점이 있다. 만약 데이터가 정규부포를 따를 경우, box plot의 IQR은 50%의 면적을 차지하고 최대값과 최소값을 모두 고려하면 3sigma(신뢰구간 99%)구간과 일치함을 알 수 있다. box plot 자체는 많은 통계량이 시각적으로 간략하면서도 명료하게 표현되므로 데이터를 파악하는 데에 사용한다.
 
 
-## 4. 데이터 시각화
+### 4. 데이터 시각화
 
 - Wikipedia : To communicate information clearly and efficiently, data visualization uses statistical graphics, plots, information graphics and other tools. Numerical data may be encoded using dots, lines, or bars, to visually communicate a quantitative message. Effective visualization helps users analyze and reason about data and evidence.
