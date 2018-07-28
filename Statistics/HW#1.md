@@ -4,8 +4,7 @@
 - Wikipedia 에서는 다음과 같이 정의하고 있다.
 
   : Statistics is a branch of mathematics dealing with the collection, organization, analysis, interpretation and presentation of data.
-  
-  
+
 - 나의 생각 : 통계학은 사회현상을 수치화하여 분석할 수 있는 기초를 제공한다. 예를 들면, 고객만족도와 같이 수치화하기 힘든 지표에 대하여 조사자의 기준에 따라 일정 간격과 등급을 설정함으로써 정량적인 데이터로 수집할 수 있다. 이는 자연과학에서 측정되는 물리량과는 차이점이 있는 실험방법이다. 불규칙해보이는 데이터를 대상으로 규칙성을 발견하고 이를 통해 사회현상을 이해함을 넘어 미래의 발생가능한 사건을 예측할 수 있는 장치가 그 목적이라 생각한다. 자연과학서는 몇 가지 통제된 간단한 문제들을 해결해봄으로써 자연현상을 이해하고 분석하며 이를 기반으로 더 복잡한 자연현상에 대해 '예측'을 제시할 수 있어야 가치가 있다. 이 과정에서 수학으로 기술하게 되고 이는 약속이자 제일 명확하게 기술할 수 있는 방법이다. 비슷한 맥락으로, 사회과학에서 사회문제를 수학적으로 접근하여 해결하고자 함에 있어 필요한 것이 통계학이라 생각한다. 이는 데이터를 분석하는 첫 과정에서 반드시 필요한 것이라 생각한다.
 
 
@@ -39,3 +38,23 @@
 ### 4. 데이터 시각화
 
 - Wikipedia : To communicate information clearly and efficiently, data visualization uses statistical graphics, plots, information graphics and other tools. Numerical data may be encoded using dots, lines, or bars, to visually communicate a quantitative message. Effective visualization helps users analyze and reason about data and evidence.
+- 나의 생각 : 우리는 데이터 시각화를 생활에서 많이 접하고 있다.  뉴스를 통해 주가나 유가의 변동 그래프를 볼 수 있고, 기상청으로부터 등온선이나 해류의 방향 등 다양한 정보를 보기 쉽게 그래프와 지형도에 나타낸 자료를 접하고 있다. 많은 자료를 table형태로 만들어 보는 것도 하나의 방법이겠지만 데이터 전체가 유의미한 관계를 가지고 있는지를 단순히 table을 보고 알아차리기는 어렵다. 그래서 우리는 관계식을 직선이나 곡선의 형태로 plotting을 함으로써 분석에 활용한다. 이는 복잡한 데이터에 대해 접근성을 높일 수 있고, 두 집단을 비교하기에 용이하다.  정리하면 데이터 시각화는 정보의 인지와 그것을 활용한 분석, 그리고 의사소통에 사용되므로 효율적으로 정보를 다루기 위해서는 필요한 요소이다. 데이터 시각화와 관련하여 인포그래픽도 비슷한 맥락이라 할 수 있다.
+
+### 5. 통계적 사고
+
+- 현대 사회에서 우리는 많은 정보를 접하고 있다. 
+- 빠른 속도로 변화는 사회에서 효과적인 의사결정을 하기 위해 필요한 데이터만을 추출하는 것과 그것을 신뢰성 있는 분석을 할 줄 알아야한다.
+- 
+
+
+
+
+
+### 6. 정규분포
+
+
+
+
+
+
+
